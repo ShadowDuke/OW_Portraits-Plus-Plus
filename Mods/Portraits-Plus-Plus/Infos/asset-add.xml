@@ -192,4 +192,12 @@
 		<zType>ASSET_SPRITE_SHEET_ASSYRIA_LEADER_MALE_30_ADULT</zType>
 		<zAsset>portraitsplusplus/ASSYRIA_LEADER_MALE_30_ADULT</zAsset>
 	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_ASSYRIA_LEADER_MALE_30_YOUNG_ADULT</zType>
+		<zAsset>portraitsplusplus/ASSYRIA_LEADER_MALE_30_YOUNG_ADULT</zAsset>
+	</Entry>
+	<Entry>
+		<zType>ASSET_SPRITE_SHEET_ASSYRIA_LEADER_MALE_30_SENIOR</zType>
+		<zAsset>portraitsplusplus/ASSYRIA_LEADER_MALE_30_SENIOR</zAsset>
+	</Entry>
 </Root>

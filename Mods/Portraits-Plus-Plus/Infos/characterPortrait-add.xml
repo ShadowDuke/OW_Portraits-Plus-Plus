@@ -1046,12 +1046,16 @@
 				<zValue>GENERIC_MALE_12_YOUTH</zValue>
 			</Pair>
 			<Pair>
+				<zIndex>CHARACTER_AGE_GROUP_YOUNG_ADULT</zIndex>
+				<zValue>ASSYRIA_LEADER_MALE_30_YOUNG_ADULT</zValue>
+			</Pair>
+			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
 				<zValue>ASSYRIA_LEADER_MALE_30_ADULT</zValue>
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-				<zValue>ASSYRIA_LEADER_MALE_30_ADULT</zValue>
+				<zValue>ASSYRIA_LEADER_MALE_30_SENIOR</zValue>
 			</Pair>
 		</azAgeGroupSpriteNames>
 	</Entry>
