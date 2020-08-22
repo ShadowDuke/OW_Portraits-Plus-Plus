@@ -100,12 +100,16 @@
 				<zValue>GENERIC_FEMALE_12_YOUTH</zValue>
 			</Pair>
 			<Pair>
+				<zIndex>CHARACTER_AGE_GROUP_YOUNG_ADULT</zIndex>
+				<zValue>BABYLONIA_LEADER_FEMALE_30_YOUNG_ADULT</zValue>
+			</Pair>
+			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
 				<zValue>BABYLONIA_LEADER_FEMALE_30_ADULT</zValue>
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-				<zValue>BABYLONIA_LEADER_FEMALE_30_ADULT</zValue>
+				<zValue>BABYLONIA_LEADER_FEMALE_30_SENIOR</zValue>
 			</Pair>
 		</azAgeGroupSpriteNames>
 	</Entry>
@@ -122,12 +126,16 @@
 				<zValue>GENERIC_FEMALE_13_YOUTH</zValue>
 			</Pair>
 			<Pair>
+				<zIndex>CHARACTER_AGE_GROUP_YOUNG_ADULT</zIndex>
+				<zValue>BABYLONIA_LEADER_FEMALE_31_YOUNG_ADULT</zValue>
+			</Pair>
+			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
 				<zValue>BABYLONIA_LEADER_FEMALE_31_ADULT</zValue>
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_SENIOR</zIndex>
-				<zValue>BABYLONIA_LEADER_FEMALE_31_ADULT</zValue>
+				<zValue>BABYLONIA_LEADER_FEMALE_31_SENIOR</zValue>
 			</Pair>
 		</azAgeGroupSpriteNames>
 	</Entry>

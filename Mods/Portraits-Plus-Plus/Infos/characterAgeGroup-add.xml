@@ -18,11 +18,11 @@
 	<Entry>
 		<zType>CHARACTER_AGE_GROUP_YOUNG_ADULT</zType>
 		<iStartAge>13</iStartAge>
-		<iEndAge>25</iEndAge>
+		<iEndAge>21</iEndAge>
 	</Entry>
 	<Entry>
 		<zType>CHARACTER_AGE_GROUP_ADULT</zType>
-		<iStartAge>25</iStartAge>
+		<iStartAge>21</iStartAge>
 		<iEndAge>55</iEndAge>
 	</Entry>
 	<Entry>
