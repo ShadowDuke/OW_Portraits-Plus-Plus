@@ -3,7 +3,7 @@
 You can still add them manually like before (github) but it would be certainly easier for you to create a [mod.io](https://oldworld.mod.io/) profile and get the mods and updates for them through the game now.**
 
 # [Portraits++](https://github.com/ShadowDuke/OW_Portraits-Plus-Plus/wiki)
-**Adds a total of 37 new adult portraits (28 male and 9 female) from real people transformed to fit into the game. They are added to the pool the game is choosing portraits from. Some nations have been given the same portraits. You can use this with Portraits+**
+**Adds a total of 37 new adult portraits (28 male and 9 female) from real people pictures an ai created (they dont exist) transformed to fit into the game. They are added to the pool the game is choosing portraits from. Some nations have been given the same portraits. You can use this with Portraits+**
 
 **Im trying to add new female pictures soon.**
 
@@ -36,7 +36,7 @@ You can still add them manually like before (github) but it would be certainly e
    
 ## Notes
 
-I decided to add this as an extra mod because **portraits+** is using mainly portraits from pen&paper games, etc. whereas **portraits++** is using real pictures. So if you dont like either one of those you can choose between two different portrait versions or just use both of them.
+I decided to add this as an extra mod because **portraits+** is using mainly portraits from pen&paper games, etc. whereas **portraits++** is using real pictures an ai created (they dont exist). So if you dont like either one of those you can choose between two different portrait versions or just use both of them.
 
 <br><br>
 **Mod compatibility with all my mods**
