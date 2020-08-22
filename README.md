@@ -5,6 +5,8 @@ You can still add them manually like before (github) but it would be certainly e
 # [Portraits++](https://github.com/ShadowDuke/OW_Portraits-Plus/wiki)
 **Adds a total of 37 new adult portraits (28 male and 9 female) from real people transformed to fit into the game. They are added to the pool the game is choosing portraits from. Some nations have been given the same portraits. You can use this with Portraits+**
 
+**Im trying to add new female pictures soon.**
+
 ## Installation and use
 
 1. [Download](https://github.com/ShadowDuke/OW_Portraits-Plus-Plus/archive/master.zip) the files and put the **"Mods"** directory in \Users\\###\Documents\My Games\OldWorld\
