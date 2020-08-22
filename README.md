@@ -34,7 +34,7 @@ You can still add them manually like before (github) but it would be certainly e
    
 ## Notes
 
-I decided to add this as an extra mod because **portraits+** is using mainly portraits from pen&paper games, etc. whereas **portraits++** is using real pictures an ai created (they dont exist). So if you dont like either one of those you can choose between two different portrait versions or just use both of them.
+I decided to add this as an extra mod because **[portraits+](https://github.com/ShadowDuke/OW_Portraits-Plus)** is using mainly portraits from pen&paper games, etc. whereas **portraits++** is using real pictures an ai created (they dont exist). So if you dont like either one of those you can choose between two different portrait versions or just use both of them.
 
 <br><br>
 **Mod compatibility with all my mods**
