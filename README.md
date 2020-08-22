@@ -3,7 +3,7 @@
 You can still add them manually like before (github) but it would be certainly easier for you to create a [mod.io](https://oldworld.mod.io/) profile and get the mods and updates for them through the game now.**
 
 # [Portraits++](https://github.com/ShadowDuke/OW_Portraits-Plus-Plus/wiki)
-**Adds a total of 37 new adult portraits (28 male and 9 female) from real people pictures an ai created (they dont exist) transformed to fit into the game. They are added to the pool the game is choosing portraits from. Some nations have been given the same portraits. You can use this with Portraits+**
+**Adds a total of 48 new adult portraits (28 male and 20 female) from real people pictures an ai created (they dont exist) transformed to fit into the game. They are added to the pool the game is choosing portraits from. Some nations have been given the same portraits. You can use this with Portraits+**
 
 **Im trying to add new female pictures soon.**
 
@@ -17,22 +17,22 @@ You can still add them manually like before (github) but it would be certainly e
 ## Content
 
 - Assyria/Parthia:
-   - Added 10 male & 6 female portraits
+   - Added 10 male & 11 female portraits
    
 - Babylonia:
-   - Added 10 male & 6 female portraits
+   - Added 10 male & 10 female portraits
    
 - Persia:
-   - Added 10 male & 6 female portraits
+   - Added 10 male & 10 female portraits
    
 - Carthage:
-   - Added 9 male & 3 female portraits
+   - Added 9 male & 7 female portraits
    
 - Rome:
-   - Added 12 male & 3 female portraits
+   - Added 12 male & 8 female portraits
    
 - Greece/Sparta::
-   - Added 10 male & 3 female portraits
+   - Added 10 male & 8 female portraits
    
 ## Notes
 
