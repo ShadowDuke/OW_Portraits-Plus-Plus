@@ -1,0 +1,16 @@
+<Root>
+	<Entry>
+		<zType>CHARACTER_AGE_GROUP_YOUTH</zType>
+    <iStartAge>4</iStartAge>
+    <iEndAge>18</iEndAge>
+	</Entry>
+	<Entry>
+		<zType>CHARACTER_AGE_GROUP_ADULT</zType>
+		<iStartAge>18</iStartAge>
+		<iEndAge>55</iEndAge>
+	</Entry>
+	<Entry>
+		<zType>CHARACTER_AGE_GROUP_SENIOR</zType>
+		<iStartAge>56</iStartAge>
+	</Entry>
+</Root>

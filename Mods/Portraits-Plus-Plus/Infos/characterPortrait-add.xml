@@ -97,11 +97,7 @@
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
-				<zValue>GENERIC_FEMALE_12_YOUTH</zValue>
-			</Pair>
-			<Pair>
-				<zIndex>CHARACTER_AGE_GROUP_YOUNG_ADULT</zIndex>
-				<zValue>BABYLONIA_LEADER_FEMALE_30_YOUNG_ADULT</zValue>
+				<zValue>BABYLONIA_LEADER_FEMALE_30_YOUTH</zValue>
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
@@ -123,11 +119,7 @@
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
-				<zValue>GENERIC_FEMALE_13_YOUTH</zValue>
-			</Pair>
-			<Pair>
-				<zIndex>CHARACTER_AGE_GROUP_YOUNG_ADULT</zIndex>
-				<zValue>BABYLONIA_LEADER_FEMALE_31_YOUNG_ADULT</zValue>
+				<zValue>BABYLONIA_LEADER_FEMALE_31_YOUTH</zValue>
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>
@@ -1051,11 +1043,7 @@
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_YOUTH</zIndex>
-				<zValue>GENERIC_MALE_12_YOUTH</zValue>
-			</Pair>
-			<Pair>
-				<zIndex>CHARACTER_AGE_GROUP_YOUNG_ADULT</zIndex>
-				<zValue>ASSYRIA_LEADER_MALE_30_YOUNG_ADULT</zValue>
+				<zValue>ASSYRIA_LEADER_MALE_30_YOUTH</zValue>
 			</Pair>
 			<Pair>
 				<zIndex>CHARACTER_AGE_GROUP_ADULT</zIndex>

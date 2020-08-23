@@ -57,16 +57,16 @@
 		<zAsset>portraitsplusplus/BABYLONIA_LEADER_FEMALE_30_ADULT</zAsset>
 	</Entry>
 	<Entry>
-		<zType>ASSET_SPRITE_SHEET_BABYLONIA_LEADER_FEMALE_30_YOUNG_ADULT</zType>
-		<zAsset>portraitsplusplus/BABYLONIA_LEADER_FEMALE_30_YOUNG_ADULT</zAsset>
+		<zType>ASSET_SPRITE_SHEET_BABYLONIA_LEADER_FEMALE_30_YOUTH</zType>
+		<zAsset>portraitsplusplus/BABYLONIA_LEADER_FEMALE_30_YOUTH</zAsset>
 	</Entry>
 	<Entry>
 		<zType>ASSET_SPRITE_SHEET_BABYLONIA_LEADER_FEMALE_30_SENIOR</zType>
 		<zAsset>portraitsplusplus/BABYLONIA_LEADER_FEMALE_30_SENIOR</zAsset>
 	</Entry>
 	<Entry>
-		<zType>ASSET_SPRITE_SHEET_BABYLONIA_LEADER_FEMALE_31_YOUNG_ADULT</zType>
-		<zAsset>portraitsplusplus/BABYLONIA_LEADER_FEMALE_31_YOUNG_ADULT</zAsset>
+		<zType>ASSET_SPRITE_SHEET_BABYLONIA_LEADER_FEMALE_31_YOUTH</zType>
+		<zAsset>portraitsplusplus/BABYLONIA_LEADER_FEMALE_31_YOUTH</zAsset>
 	</Entry>
 	<Entry>
 		<zType>ASSET_SPRITE_SHEET_BABYLONIA_LEADER_FEMALE_31_ADULT</zType>
@@ -209,8 +209,8 @@
 		<zAsset>portraitsplusplus/ASSYRIA_LEADER_MALE_30_ADULT</zAsset>
 	</Entry>
 	<Entry>
-		<zType>ASSET_SPRITE_SHEET_ASSYRIA_LEADER_MALE_30_YOUNG_ADULT</zType>
-		<zAsset>portraitsplusplus/ASSYRIA_LEADER_MALE_30_YOUNG_ADULT</zAsset>
+		<zType>ASSET_SPRITE_SHEET_ASSYRIA_LEADER_MALE_30_YOUTH</zType>
+		<zAsset>portraitsplusplus/ASSYRIA_LEADER_MALE_30_YOUTH</zAsset>
 	</Entry>
 	<Entry>
 		<zType>ASSET_SPRITE_SHEET_ASSYRIA_LEADER_MALE_30_SENIOR</zType>
