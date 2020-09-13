@@ -1,7 +1,8 @@
+<!-- Portraits++ (Revan) -->
 <Root>
 	<Entry>
 		<zType>CHARACTER_AGE_GROUP_YOUTH</zType>
-    <iStartAge>4</iStartAge>
+    <iStartAge>5</iStartAge>
     <iEndAge>18</iEndAge>
 	</Entry>
 	<Entry>
