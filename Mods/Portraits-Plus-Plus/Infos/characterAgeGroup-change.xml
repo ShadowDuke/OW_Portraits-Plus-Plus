@@ -1,9 +1,18 @@
 <!-- Portraits++ (Revan) -->
 <Root>
 	<Entry>
+		<zType>CHARACTER_AGE_GROUP_BABY</zType>
+		<iEndAge>4</iEndAge>
+	</Entry>
+	<Entry>
 		<zType>CHARACTER_AGE_GROUP_YOUTH</zType>
-    <iStartAge>5</iStartAge>
-    <iEndAge>18</iEndAge>
+		<iStartAge>5</iStartAge>
+		<iEndAge>9</iEndAge>
+	</Entry>
+	<Entry>
+		<zType>CHARACTER_AGE_GROUP_TEEN</zType>
+		<iStartAge>10</iStartAge>
+		<iEndAge>17</iEndAge>
 	</Entry>
 	<Entry>
 		<zType>CHARACTER_AGE_GROUP_ADULT</zType>
